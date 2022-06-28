@@ -1,0 +1,18 @@
+#header {
+    height: 80px;
+    background-color: #0c1013;
+    -webkit-box-shadow: 0 0 19px 2px rgb(0 0 0 / 91%);
+    box-shadow: 0 0 19px 2px rgb(0 0 0 / 91%);
+    position: relative;
+    z-index: 100;
+}
+
+#header .container h1 {
+    color: #fff;
+    font-family: "Roboto Condensed",sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .1px;
+    margin: 0;
+}
